@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SpendSense (Flutter) — Project Skeleton
 
 This archive contains a ready-to-open Flutter project skeleton focused on the **Smart Expense Tracker** (SpendSense).
@@ -45,3 +46,7 @@ and a rule-based + predictive "AI Insights" service that runs offline (no extern
   ```
 
 If you want, I can also generate a sample `firebase_options.dart` stub or a small CI workflow.
+=======
+# Flutter-Spend-Sensor
+A cross-platform expense tracking app built with Flutter and integrated with Firebase. SpendSense helps you monitor spending, manage budgets, and track expenses effortlessly across Android, iOS, Web, macOS, and Windows. Includes guest mode for quick offline usage without Firebase setup.
+>>>>>>> 930639f3fb4a37b3b45004f3e3dfadeb2fe55cef
