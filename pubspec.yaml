@@ -1,0 +1,30 @@
+﻿name: spendsense
+description: Smart Expense Tracker (SpendSense) - Flutter skeleton for web & mobile.
+publish_to: "none"
+version: 0.0.1+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.19.6
+  cloud_firestore: ^4.17.5
+  firebase_storage: ^11.7.7
+  google_sign_in: ^6.2.1
+  file_picker: ^6.2.1
+  http: ^1.2.1
+  intl: ^0.19.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
+  uses-material-design: true
